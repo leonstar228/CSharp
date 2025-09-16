@@ -1,0 +1,14 @@
+D:\IT STEP\СSharp\homeworks\homework2\homework2\bin\Debug\net8.0\homework2.exe
+D:\IT STEP\СSharp\homeworks\homework2\homework2\bin\Debug\net8.0\homework2.deps.json
+D:\IT STEP\СSharp\homeworks\homework2\homework2\bin\Debug\net8.0\homework2.runtimeconfig.json
+D:\IT STEP\СSharp\homeworks\homework2\homework2\bin\Debug\net8.0\homework2.dll
+D:\IT STEP\СSharp\homeworks\homework2\homework2\bin\Debug\net8.0\homework2.pdb
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.AssemblyInfoInputs.cache
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.AssemblyInfo.cs
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.csproj.CoreCompileInputs.cache
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.dll
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\refint\homework2.dll
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.pdb
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\homework2.genruntimeconfig.cache
+D:\IT STEP\СSharp\homeworks\homework2\homework2\obj\Debug\net8.0\ref\homework2.dll
